@@ -3,7 +3,7 @@
 
 int main()
 {
-	char str[80] = {"Hello & Holberton - Betty _ Holberton % intranet"};
+	char str[80] = {" Hello & Holberton - Betty _ Holberton % intranet"};
 	const char s[8] = {'-', '_', '&', '%'};
 	char *token;
 
